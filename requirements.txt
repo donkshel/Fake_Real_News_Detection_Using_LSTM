@@ -1,0 +1,9 @@
+tensorflow-cpu==2.16.2
+streamlit
+numpy
+pandas
+nltk
+scikit-learn
+plotly
+wordcloud
+keras==2.16.0

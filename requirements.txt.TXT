@@ -1,8 +1,0 @@
-tensorflow==2.20.0
-streamlit
-numpy
-pandas
-nltk
-scikit-learn
-plotly
-wordcloud
